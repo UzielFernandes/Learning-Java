@@ -1,2 +1,2 @@
 # Learning-Java
-Learning the Java language
+Learning the essentials of the Java progamming language
